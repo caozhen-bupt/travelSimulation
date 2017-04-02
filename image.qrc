@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/route.png</file>
+        <file>image/showmap.png</file>
+        <file>image/welcome.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/exit.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/add.png</file>
+        <file>icon/consult.png</file>
+        <file>icon/map.png</file>
+        <file>icon/log.png</file>
+        <file>icon/rewrite.png</file>
+        <file>icon/myico.ico</file>
+        <file>icon/aboutus.png</file>
+        <file>icon/backup.png</file>
+        <file>icon/config.png</file>
+        <file>icon/restore.png</file>
+        <file>icon/exitblue.png</file>
+    </qresource>
+</RCC>
